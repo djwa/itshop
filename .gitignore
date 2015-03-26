@@ -1,0 +1,15 @@
+.htaccess
+/config.php
+admin/config.php
+
+!index.html
+
+admin/
+download/
+image/
+system/
+catalog/controller
+catalog/language
+catalog/model
+catalog/view/theme/default/
+.idea
